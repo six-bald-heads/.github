@@ -9,4 +9,7 @@
   <img src="https://github.com/six-bald-heads/.github/assets/47032054/1b211b52-e893-4115-b232-f4d36744297c" title="최하록"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=50&duration=1500&pause=2000&color=303336&center=true&vCenter=true&width=720&height=100&lines=Done+is+better+than+perfect!)](https://git.io/typing-svg)
+</br>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=50&duration=1500&pause=2000&color=303336&vCenter=true&width=720&height=100&lines=Done+is+better+than+perfect!)](https://git.io/typing-svg)
