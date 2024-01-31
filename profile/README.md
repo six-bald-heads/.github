@@ -69,6 +69,10 @@ SBH IDE는 자신만의 작업 공간에서 프로젝트를 개발할 수 있는
 
 ## 🎬 시연영상
 
+<details>
+<summary>영상 펼치기 / 접기</summary>
+<div markdown="1">  
+
 ### 회원가입
 https://github.com/six-bald-heads/.github/assets/47032054/7b4e2771-fbfa-486d-b2d7-6be3e75d9dc8
 
@@ -93,5 +97,8 @@ https://github.com/six-bald-heads/.github/assets/47032054/7bfec8b5-2a4b-4e5d-8a7
 https://github.com/six-bald-heads/.github/assets/47032054/49ba37ab-5900-492f-a2a4-b71309511778
 
 </br>
+
+   </div>
+</details> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=50&duration=1500&pause=2000&color=303336&vCenter=true&width=720&height=100&lines=Done+is+better+than+perfect!)](https://git.io/typing-svg)
